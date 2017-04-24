@@ -1,2 +1,3 @@
 # SQL-HW3
 HW3 for ITC222
+SELECT 2
